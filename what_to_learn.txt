@@ -1,0 +1,8 @@
+what are animations
+css animations and after before 
+GSAP
+Scroll Tiger
+Locomotive.js
+lenis
+swiper js
+react animations with framer motion
